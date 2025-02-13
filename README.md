@@ -9,7 +9,7 @@
 - Dutch National Flag Algorithm
 - Sliding Window
 - Two Pointers
-- Traversal based problems
+- Traversal Based problems
 - Rotation Based Problems
 
 ## • Recursion & Backtracking
