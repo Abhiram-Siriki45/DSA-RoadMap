@@ -2,7 +2,7 @@
 
 ### • [Practice Link](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms)
 
-## • Arrays & Strings
+## • Arrays & strings
 
 - Basic Array & Strings Implementation
 - Kadane's Algorithm (Max sum of continuous sub-array)
