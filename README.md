@@ -1,4 +1,4 @@
-# DSA Complete RoadMap by [Abhiram-Siriki45](https://github.com/Abhiram-Siriki45) ❤️👨🏻‍💻
+# DSA Complete RoadMap By [Abhiram-Siriki45](https://github.com/Abhiram-Siriki45) ❤️👨🏻‍💻
 
 ### • [Practice Link](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms)
 
